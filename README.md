@@ -1,2 +1,2 @@
-# Data-Wizards
+# Data Wizards
 UNLEASH THE POWER OF DATA WITH DATA WIZARDS
